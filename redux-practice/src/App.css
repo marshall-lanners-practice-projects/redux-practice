@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 300px;
+  margin: 20px auto;
+  border: solid black 1px;
+  background-color: grey;
+  min-height: 150px;
+  display: flex;
+  justify-content: center;
+}
